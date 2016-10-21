@@ -24,3 +24,6 @@ https://domainpromo.com/
 
 dnpromos  
 http://www.dnpromos.com/
+
+tld list  
+https://zh-hans.tld-list.com/
